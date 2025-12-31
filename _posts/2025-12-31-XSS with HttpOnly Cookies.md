@@ -1,5 +1,5 @@
 ---
-title: "XSS with HttpOnly Cookies"
+title: "XSS with HttpOnly Cookies — What’s the Real Impact?"
 data: 2025-12-31
 categories: [writeups, tutorials, XSS]
 tags: [XSS, tutorials, web-security]
