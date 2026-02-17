@@ -1,7 +1,7 @@
 ---
 title: "Guide to Android Bug Bounty Penetration Tests"
 data: 2026-02-15
-categories: [setup, android, android-setup]
+categories: [android, setup, android-setup]
 tags: [android, tutorials, android-setup]
 ---
 ---
