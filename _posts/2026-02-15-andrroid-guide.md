@@ -1,9 +1,8 @@
 ---
-title: "Guide to Android Bug Bounty Penetration Tests"
+title: "Android Bug Bounty Lab: Emulator Rooting, Burp Proxy & APK Analysis"
 date: 2026-02-15
 categories: [android, setup, mobile]
-tags: [android, tutorials, android-setup]
----
+tags: [android, emulator, apk-analysis, burp-suite, rooting, mobile-security, reverse-engineering, apktool, jadx]
 ---
 
 ### Course [Link](https://www.udemy.com/course/the-complete-guide-to-android-bug-bounty-penetration-tests/)

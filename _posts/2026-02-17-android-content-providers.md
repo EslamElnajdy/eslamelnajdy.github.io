@@ -2,8 +2,7 @@
 title: "Android Content Providers"
 date: 2026-02-17
 Categories: [android, content-providers, mobile]
-tags: [android, tutorials, content-providers]
----
+tags: [android, content-providers, android-security, mobile-security, adb, sql-injection, privacy, tutorial]
 
 ---
 
